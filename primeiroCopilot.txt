@@ -1,0 +1,31 @@
+Meu Primeiro Copiloto no Microsoft Copilot Studio
+Sobre o desafio
+O objetivo deste desafio foi criar meu primeiro Copiloto utilizando o Microsoft Copilot Studio. O processo começou com a conexão da conta Microsoft 365 e seguiu com a exploração das diferentes formas de criar um Copiloto dentro da plataforma.
+
+O que eu fiz
+Conectando a conta Microsoft 365
+O primeiro passo foi conectar minha conta Microsoft 365 ao Copilot Studio. Essa conexão é necessária para liberar as funcionalidades da plataforma e permitir que o Copiloto interaja com dados e serviços da Microsoft de forma integrada e segura.
+
+Criando o Copiloto
+A plataforma oferece três formas principais de criação, que testei na prática:
+
+Usando um modelo pronto
+Essa opção oferece uma estrutura já montada, com fluxos específicos para funções como atendimento ao cliente ou suporte interno. É ideal para começar rápido, com pouca configuração.
+
+Com base em uma descrição (usando inteligência artificial)
+Nessa abordagem, escrevi de forma simples o que esperava do Copiloto, como por exemplo: "Um assistente para ajudar novos funcionários com dúvidas sobre a empresa." A IA leu essa descrição e gerou automaticamente tópicos e respostas iniciais, o que facilitou bastante a criação.
+
+Criando do zero (em branco)
+Essa opção oferece controle total. Comecei com uma tela em branco e fui construindo tudo: tópicos, gatilhos e as respostas. Apesar de exigir mais tempo, é ideal para projetos mais personalizados.
+
+O que aprendi
+Como configurar e organizar os tópicos de conversa.
+
+Como funcionam os gatilhos que ativam cada tópico.
+
+Como testar e ajustar o Copiloto antes de publicar.
+
+Como integrar o assistente a canais como o Microsoft Teams ou um site.
+
+Conclusão
+Essa foi minha primeira experiência criando um Copiloto e achei o processo bem didático. A combinação entre modelos prontos, IA e liberdade de criação ajuda muito, principalmente para quem está começando. Além disso, o potencial de uso em empresas para automatizar tarefas ou tirar dúvidas em tempo real é enorme.
